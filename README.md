@@ -5,6 +5,9 @@ Looking for a job? Check-out these offers.
 
 ## Open calls
 
+### [REDACTED] <sub><sup>(soon)</sup></sub>
+
+More infor soon. Stay tuned.
 
 ### Companion <sub><sup>(open)</sup></sub>
 
