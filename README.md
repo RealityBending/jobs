@@ -7,7 +7,7 @@ Looking for a job? Check-out these offers.
 
 ### [REDACTED] <sub><sup>(soon)</sup></sub>
 
-More infor soon. Stay tuned.
+More info soon. Stay tuned.
 
 ### Companion <sub><sup>(open)</sup></sub>
 
