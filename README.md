@@ -34,7 +34,7 @@ We plan to run several experiments including techniques like EEG, bodily signals
 
 - [ ] Drop me an **email** (with a **CV**) in which you tell us why you're the best candidate for the job. You can mention whom you've work with, but focus on what you actually did, learned, what you liked and didn't like, and what you want to learn and do in the future.
 
-- [ ] **Challenge**: Also, if you want, you can try and do the ["make sense out of some data" challenge](https://github.com/DominiqueMakowski/jobs/tree/master/challenge) (you can attach your report alongside your CV in the email). Remember, it's not about getting the right answer, but rather about trying and thinking.
+- [ ] **Challenge**: If you want, you can try and do the ["make sense out of some data" challenge](https://github.com/DominiqueMakowski/jobs/tree/master/challenge) (you can attach your report alongside your CV in the email). Remember, it's not about getting the right answer, but rather about trying and thinking.
 
 **Deadline**: This position will remain open until the right candidate has been found.
 

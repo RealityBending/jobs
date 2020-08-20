@@ -1,4 +1,3 @@
-
 ![](../img/friedrich.png)
 
 # The "make sense out of some data" challenge
