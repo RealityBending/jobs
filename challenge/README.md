@@ -1,8 +1,11 @@
+
+!()[../img/friedrich.png]
+
 # The "make sense out of some data" challenge
 
 *Expected time to complete: 30min - 1h*
 
-The goal of this challenge is to 1) expose you to some typical data that we work with and 2) see how you deal with new information. Indeed, there are no right nor wrong answers, no "trick" available. What's important to us is how you face a new challenge, and how you think about it. It doesn't matter what tools you use, and what results do you obtain, as long as we can follow your investigation. 
+The goal of this challenge is to 1) expose you to some typical data that we work with and 2) see how you deal with new information. Indeed, there are no right nor wrong answers, no "trick" available. What's important to us is how you face a new challenge, and how you think about it. It doesn't matter what tools you use, and what results do you obtain, as long as we can follow your investigation.
 
 ## Description
 
