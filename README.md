@@ -21,23 +21,27 @@ We're looking for a **research assistant/associate** (bachelor or master degree)
 - **With whom**: With the [**ReBeL**](https://dominiquemakowski.github.io/research/#people) team (part of the [Clinical Brain Lab](http://www.clinicalbrain.org/))
 - **To do what**: Running experiments, analyzing data, writing papers
 - **Contact**: dom.makowski@gmail.com
-- **Requirements**: being smart, curious, ambitious, proficient and cool. Also, prior experience with Python and/or R will help a lot
+- **Requirements**: being smart, curious, ambitious, proficient and cool. Also, experience with Python and/or R will help a lot
 - **Skills to developp**: Python, R, signal processing, experiment building, neuroimaging, neuropsychology, writing, presenting, wakeboarding, ...
 
 
-I recently obtained a grant for 2 years to investigate the neural mechanisms that lead to the belief that something is real or not (like fake news) and investigate possible ways of modulating this belief (by manipulating the context or stimulating the brain).
+I recently obtained a grant for 2 years to investigate the neural mechanisms that lead to the belief that something is real or not (like fake news) and investigate possible ways of modulating this belief (by manipulating the external and internal context, and stimulating the brain).
 
 We plan to run several experiments including techniques like EEG, bodily signals, and possibly neurofeedback and brain stimulation (TDCs) with different populations (healthy young adults, older adults and psychiatric patients).
 
 
-- **How to apply**: Send email with CV in which you tell us why you're the best candidate for the job. You can mention who you've work with, but focus on what you actually did, learned and what you want to learn and do in the future.
+**How to apply**:
 
+- [ ] Drop me an **email** (with a **CV**) in which you tell us why you're the best candidate for the job. You can mention whom you've work with, but focus on what you actually did, learned, what you liked and didn't like, and what you want to learn and do in the future.
 
+- [ ] **Challenge**: Also, if you want, you can try and do the ["make sense out of some data" challenge](https://github.com/DominiqueMakowski/jobs/tree/master/challenge) (you can attach your report alongside your CV in the email). Remember, it's not about getting the right answer, but rather about trying and thinking.
 
-- **About the university**: The Nanyang <sub><sup>(*which means "Southeast Asia" in Chinese*)</sup></sub> Technological University (NTU) is one of the two main universities in Singapore. Although relatively young compared to most of western institutes, NTU is a dynamic and vibrant university that has quickly achieved an international leadership in many areas. NTU has been ranked as 1st in the ranking of young universities in the QS World University Rankings since 2015, and is considered as a top-tier research institution in Asia.
+**Deadline**: This position will remain open until the right candidate has been found.
+
+**About the university**: The Nanyang <sub><sup>(*which means "Southeast Asia" in Chinese*)</sup></sub> Technological University (NTU) is one of the two main universities in Singapore. Although relatively young compared to most of western institutes, NTU is a dynamic and vibrant university that has quickly achieved an international leadership in many areas. NTU has been ranked as 1st in the ranking of young universities in the QS World University Rankings since 2015, and is considered as a top-tier research institution in Asia.
 Aside from its academic qualities, NTU is known for its green campus (NTU has been listed as one of the world's most beautiful universities) and its architectural landmarks, making it an ideal location to foster a positive growth mindset.
 
-- **Deadline**: This position will remain open until the right candidate has been found.
+
 
 
 ----
