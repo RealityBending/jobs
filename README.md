@@ -12,7 +12,7 @@ Looking for a job? Check-out these offers.
 
 ### Research Assistant/Associate <sub><sup>(posted 20/08/2020)</sup></sub>
 
-I'm looking for a **research assistant/associate** (bachelor or master degree) to come over to Singapore for 2 years and work with me on [**reality bending**](https://dominiquemakowski.github.io/research/).
+We're looking for a **research assistant/associate** (bachelor or master degree) to come over to Singapore for 2 years and work with us on [**reality bending**](https://dominiquemakowski.github.io/research/).
 
 - **Salary**: SGD 2800-3400/month <sub><sup>*(not including bonuses)*</sup></sub>
 - **Where**: Nanyang Technological University, Singapore
