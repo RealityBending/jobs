@@ -21,7 +21,8 @@ We're looking for a **research assistant/associate** (bachelor or master degree)
 - **With whom**: With the [**ReBeL**](https://dominiquemakowski.github.io/research/#people) team (part of the [Clinical Brain Lab](http://www.clinicalbrain.org/))
 - **To do what**: Running experiments, analyzing data, writing papers
 - **Contact**: dom.makowski@gmail.com
-- **Requirements**: being smart, curious, ambitious, proficient and cool. Also, prior experience with Python and/or R will help a lot.
+- **Requirements**: being smart, curious, ambitious, proficient and cool. Also, prior experience with Python and/or R will help a lot
+- **Skills to developp**: Python, R, signal processing, experiment building, neuroimaging, neuropsychology, writing, presenting, wakeboarding, ...
 
 
 I recently obtained a grant for 2 years to investigate the neural mechanisms that lead to the belief that something is real or not (like fake news) and investigate possible ways of modulating this belief (by manipulating the context or stimulating the brain).
