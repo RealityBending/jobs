@@ -8,7 +8,7 @@ The goal of this challenge is to 1) expose you to some typical data that we work
 
 ## Description
 
-The data is in the `data.csv` file. Several participants have watched pictures that are either **Negative** or **Neutral**. After each image, they had to judge the **Intensity** of the emotion that they felt and the **Self-Relevance** (i.e., how much the content of the picture was "personally relevant" to them).
+The data is in the [`data.csv`](https://raw.githubusercontent.com/DominiqueMakowski/jobs/master/challenge/data.csv) file. Several participants have watched pictures that are either **Negative** or **Neutral**. After each image, they had to judge the **Intensity** of the emotion that they felt and the **Self-Relevance** (i.e., how much the content of the picture was "personally relevant" to them).
 
 
 ## Questions
