@@ -10,42 +10,11 @@ Looking for a job? Check-out these offers.
 
 <img height="400" src="https://dominiquemakowski.github.io/img/headers/singapore.jpg">
 
-### Research Assistant/Associate <sub><sup>(posted 20/08/2020)</sup></sub>
-
-We're looking for a **research assistant/associate** (bachelor or master degree) to come over to Singapore for 2 years and work with us on [**reality bending**](https://dominiquemakowski.github.io/research/) ([click-here](https://dominiquemakowski.github.io/research/) to learn more about what we do).
-
-- **Salary**: SGD 2800-3400/month <sub><sup>*(not including bonuses)*</sup></sub>
-- **Where**: Nanyang Technological University, Singapore
-- **When**: As soon as possible
-- **How long**: max. 2 years
-- **With whom**: With the [**ReBeL**](https://dominiquemakowski.github.io/research/#people) team (part of the [Clinical Brain Lab](http://www.clinicalbrain.org/))
-- **To do what**: Running experiments, analyzing data, writing papers
-- **Contact**: dom.makowski@gmail.com
-- **Requirements**: being smart, curious, ambitious, proficient and cool. Also, experience with Python and/or R will help a lot
-- **Skills to developp**: Python, R, signal processing, experiment crafting, neuroimaging, neuropsychology, writing, presenting, pizza testing, ...
-- **Application deadline**: This position will be closed once the right candidate is found.
-
-**Context**
-
-I recently obtained a grant for 2 years to investigate the neural mechanisms that lead to the belief that something is real or not (like fake news) and investigate possible ways of modulating this belief (by manipulating the external and internal context, and stimulating the brain).
-
-We plan to run several experiments including techniques like EEG, bodily signals, and possibly neurofeedback and brain stimulation (TDCs) with different populations (healthy young adults, older adults and psychiatric patients).
 
 
-**How to apply**:
+### Research Assistant/Associate <sub><sup>(SOON)</sup></sub>
 
-- [ ] Drop me an **email** (with a **CV**) in which you tell us why you're the best candidate for the job. You can mention whom you've work with, but focus on what you actually did, learned, what you liked and didn't like, and what you want to learn and do in the future.
-
-- [ ] **Challenge**: If you want, you can try and do the ["make sense out of some data" challenge](https://github.com/DominiqueMakowski/jobs/tree/master/challenge) (you can attach your report alongside your CV in the email). Remember, it's not about getting the right answer, but rather about trying and thinking.
-
-
-**About the university**
-
-The Nanyang <sub><sup>(*which means "Southeast Asia" in Chinese*)</sup></sub> Technological University (NTU) is one of the two main universities in Singapore. Although relatively young compared to most of western institutes, NTU is a dynamic and vibrant university that has quickly achieved an international leadership in many areas. NTU has been ranked as 1st in the ranking of young universities in the QS World University Rankings since 2015, and is considered as a top-tier research institution in Asia.
-Aside from its academic qualities, NTU is known for its green campus (NTU has been listed as one of the world's most beautiful universities) and its architectural landmarks, making it an ideal location to foster a positive growth mindset.
-
-
-
+- More info coming soon.
 
 ----
 
@@ -85,5 +54,41 @@ Good news, I might have something of interest for you. Being in touch with sever
 ----
 ## Closed calls
 
+### ~Research Assistant/Associate~ <sub><sup>(posted 20/08/2020)</sup></sub>
 
-- [x] Master of the universe. 42k/day.
+We're looking for a **research assistant/associate** (bachelor or master degree) to come over to Singapore for 2 years and work with us on [**reality bending**](https://dominiquemakowski.github.io/research/) ([click-here](https://dominiquemakowski.github.io/research/) to learn more about what we do).
+
+- **Salary**: SGD 2800-3400/month <sub><sup>*(not including bonuses)*</sup></sub>
+- **Where**: Nanyang Technological University, Singapore
+- **When**: As soon as possible
+- **How long**: max. 2 years
+- **With whom**: With the [**ReBeL**](https://dominiquemakowski.github.io/research/#people) team (part of the [Clinical Brain Lab](http://www.clinicalbrain.org/))
+- **To do what**: Running experiments, analyzing data, writing papers
+- **Contact**: dom.makowski@gmail.com
+- **Requirements**: being smart, curious, ambitious, proficient and cool. Also, experience with Python and/or R will help a lot
+- **Skills to developp**: Python, R, signal processing, experiment crafting, neuroimaging, neuropsychology, writing, presenting, pizza testing, ...
+- **Application deadline**: This position will be closed once the right candidate is found.
+
+**Context**
+
+I recently obtained a grant for 2 years to investigate the neural mechanisms that lead to the belief that something is real or not (like fake news) and investigate possible ways of modulating this belief (by manipulating the external and internal context, and stimulating the brain).
+
+We plan to run several experiments including techniques like EEG, bodily signals, and possibly neurofeedback and brain stimulation (TDCs) with different populations (healthy young adults, older adults and psychiatric patients).
+
+
+**How to apply**:
+
+- [ ] Drop me an **email** (with a **CV**) in which you tell us why you're the best candidate for the job. You can mention whom you've work with, but focus on what you actually did, learned, what you liked and didn't like, and what you want to learn and do in the future.
+
+- [ ] **Challenge**: If you want, you can try and do the ["make sense out of some data" challenge](https://github.com/DominiqueMakowski/jobs/tree/master/challenge) (you can attach your report alongside your CV in the email). Remember, it's not about getting the right answer, but rather about trying and thinking.
+
+
+**About the university**
+
+The Nanyang <sub><sup>(*which means "Southeast Asia" in Chinese*)</sup></sub> Technological University (NTU) is one of the two main universities in Singapore. Although relatively young compared to most of western institutes, NTU is a dynamic and vibrant university that has quickly achieved an international leadership in many areas. NTU has been ranked as 1st in the ranking of young universities in the QS World University Rankings since 2015, and is considered as a top-tier research institution in Asia.
+Aside from its academic qualities, NTU is known for its green campus (NTU has been listed as one of the world's most beautiful universities) and its architectural landmarks, making it an ideal location to foster a positive growth mindset.
+
+
+### ~Master of the universe~
+
+- 42k/day.
