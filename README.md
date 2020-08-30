@@ -24,7 +24,7 @@ Looking for a job? Check-out these offers.
 
 
 
-During the Middle Ages and the Renaissance, becoming a master craftsman required to undertake a long journey that would bring the novice to gain the rank of master through *"companionship"*. As such, the learner would learn from a teacher for a given period of time, after what she or he would decide to leave and move on to a new adventure.
+During the Middle Ages and the Renaissance, becoming a master craftsman or arstist required to undertake a long journey that would bring the novice to gain the rank of master through *"companionship"*. As such, the learner would learn from a teacher for a given period of time, after what she or he would decide to leave and move on to a new adventure.
 
 You're a student or a researcher-in-training, and **you feel like you have time** *(and energy ⚡)* **to learn more?** And you also would like to **learn new skills** and contribute to open-science? But you would also like this training to result in something academically valuable (like a publication)? In other words, **you want it all**?
 
