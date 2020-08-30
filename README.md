@@ -2,9 +2,6 @@
 
 Looking for a job? Check-out these offers.
 
-
-## Open calls
-
 ----
 
 
@@ -12,13 +9,13 @@ Looking for a job? Check-out these offers.
 
 
 
-### Research Assistant/Associate <sub><sup>(SOON)</sup></sub>
+## Research Assistant/Associate <sub><sup>(SOON)</sup></sub>
 
 - More info coming soon.
 
 ----
 
-### Free Companion <sub><sup>(open)</sup></sub>
+## Free Companion <sub><sup>(open)</sup></sub>
 
 <img align="right" height="250" src="img/masons.jpg">
 
