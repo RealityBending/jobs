@@ -55,7 +55,7 @@ Good news, I might have something of interest for you. Being in touch with sever
 
 We're looking for a **research assistant/associate** (bachelor or master degree) to come over to Singapore for 2 years and work with us on [**reality bending**](https://dominiquemakowski.github.io/research/) ([click-here](https://dominiquemakowski.github.io/research/) to learn more about what we do).
 
-- **Salary**: SGD 2800-3400/month <sub><sup>*(not including bonuses)*</sup></sub>
+- **Salary**: SGD 2800-3400/month <sub><sup>*(base salary, not including bonuses)*</sup></sub>
 - **Where**: Nanyang Technological University, Singapore
 - **When**: As soon as possible
 - **How long**: max. 2 years
