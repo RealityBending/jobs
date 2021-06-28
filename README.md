@@ -2,18 +2,51 @@
 
 Looking for a job? Check-out these offers.
 
-----
 
 
 <img height="400" src="https://dominiquemakowski.github.io/img/headers/singapore.jpg">
 
 
 
-## Research Assistant/Associate <sub><sup>(SOON)</sup></sub>
+## Research Assistant/Associate (2 years)
 
-- More info coming soon.
+- [**APPLY HERE**](https://ntu.wd3.myworkdayjobs.com/en-US/Careers/job/NTU-Main-Campus-Singapore/Research-Assistant--Psychology-_R00006622-1)
 
-----
+
+We're looking for a **research assistant/associate** (bachelor or master degree) at Nanyang Technological University, Singapore to work with us on [**reality bending**](https://dominiquemakowski.github.io/research/) ([click-here](https://dominiquemakowski.github.io/research/) to learn more about what we do).
+
+- **Salary**: SGD 2800-3400/month <sub><sup>*(base salary, not including bonuses)*</sup></sub>
+- **Where**: Nanyang Technological University, Singapore
+- **When**: As soon as possible
+- **How long**: 2 years
+- **With whom**: With the [**ReBeL**](https://dominiquemakowski.github.io/research/#people) team (part of the [Clinical Brain Lab](http://www.clinicalbrain.org/))
+- **To do what**: Creating experiments, analyzing data, writing papers, coding, ... (all the neuro/psychological science good stuff)
+- **Contact**: dom.makowski@gmail.com (but apply through the link above)
+- **Requirements**: being smart, curious, ambitious, proficient and cool. Also, experience with Python and/or R will help a lot
+- **Skills that you will be developping**: Python, R, signal processing, experiment crafting, EEG and physiological signals analysis, neuropsychology, writing, presenting, pizza testing, ...
+- **Application deadline**: This position will be closed once the right candidate is found.
+
+**Context**
+
+I recently obtained a grant for 2 years to investigate the neural mechanisms that lead to the belief that something is real or not (like fake news) and investigate possible ways of modulating this belief (by manipulating the external and internal context, and stimulating the brain).
+
+We plan to run several experiments including techniques like EEG, bodily signals, and possibly neurofeedback and brain stimulation (TDCs) with a long-term goal to test different populations (healthy young adults, older adults and psychiatric patients).
+
+
+**How to apply**:
+
+- [ ] Through the link above. Don't forget to tell us why you're the best candidate for the job. You can mention whom you've work with (as reference contacts), but focus on what you actually did, learned, what you liked and didn't like, and what you want to learn and do in the future. Don't bother with reference letters or transcripts.
+
+
+**About the university**
+
+The Nanyang <sub><sup>(*which means "Southeast Asia" in Chinese*)</sup></sub> Technological University (NTU) is one of the two main universities in Singapore. Although relatively young compared to most of western institutes, NTU is a dynamic and vibrant university that has quickly achieved an international leadership in many areas. NTU has been ranked as 1st in the ranking of young universities in the QS World University Rankings since 2015, and is considered as a top-tier research institution in Asia.
+Aside from its academic qualities, NTU is known for its green campus (NTU has been listed as one of the world's most beautiful universities) and its architectural landmarks, making it an ideal location to foster a positive growth mindset.
+
+
+
+<img height="400" src="img/team.jpg">
+
 
 ## Free Companion <sub><sup>(open)</sup></sub>
 
@@ -46,7 +79,7 @@ Good news, I might have something of interest for you. Being in touch with sever
 - [ ] **The Structure of Indices of Heart Rate Variability (HRV)**. We have a [draft](https://neurokit2.readthedocs.io/en/latest/studies/hrv_structure.html) of a study that we'd like to improve. The goal is to use existing dataset to investigate the structure (using factor analysis and/or clustering) of HRV indices, to understand their nature and derive guidelines for their reporting.
     - *Skills that you will improve*: R, statistics (factor analysis, clustering), knowledge of ECG / HRV, paper writing.
 
-*Note that the amount of engagement and time you want to devote to such side-project is entirely up to you. As it is 100% based on self-engagement, we won't ask for any target goals, so no pressure. Joining our network and working on these things should always be interesting, useful to you, and fun.*
+*Note that the amount of engagement and time you want to devote to such side-project is entirely up to you. As it is 100% based on self-engagement, we won't ask for any target goals, so no pressure. Joining our network and working on these things should always be interesting (for you), useful (to you), and fun (for you... and us ☺️).*
 
 ----
 ## Closed calls
