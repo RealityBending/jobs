@@ -15,15 +15,16 @@ Looking for a job? Check-out these offers.
 We're looking for a **research assistant/associate** (bachelor or master degree in psychology or related fields) at Nanyang Technological University, Singapore to work with us on [**reality bending**](https://dominiquemakowski.github.io/research/), which includes things like reality perception, fake news, illusions, deception etc.
 
 - **Salary**: approx. SGD 2800-3400/month <sub><sup>*(base salary, not including bonuses)*</sup></sub> (depending on experience and qualifications)
-- **Where**: Nanyang Technological University, Singapore
+- **Where**: [Nanyang Technological University](https://www.ntu.edu.sg/), Singapore
 - **When**: As soon as possible
 - **How long**: (at least) until December 2022 (approx. 2 years)
+- **For whom**: Perfect for recently graduate candidates that want to gain experience in neuroscience/psychology research or find work in academia
 - **With whom**: With the [**ReBeL**](https://dominiquemakowski.github.io/research/#people) team (part of the [Clinical Brain Lab](http://www.clinicalbrain.org/))
 - **To do what**: Creating experiments, analyzing data, writing papers, coding, ... (all the neuro/psychological science good stuff)
 - **Contact**: dom.makowski@gmail.com (but apply through the [official link](https://ntu.wd3.myworkdayjobs.com/en-US/Careers/job/NTU-Main-Campus-Singapore/Research-Assistant--Psychology-_R00006622-1))
 - **Requirements**: being smart, curious, ambitious, proficient and cool. Also, experience with Python and/or R will help a lot
 - **Skills that you will be developping**: Python, R, signal processing, experiment crafting, EEG and physiological signals analysis, neuropsychology, writing, presenting, pizza testing, ...
-- **Application deadline**: This position will be closed once the right candidate is found.
+- **Application deadline**: This position will be closed once the right candidate is found
 
 **Context**
 
