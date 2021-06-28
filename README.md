@@ -18,7 +18,7 @@ We're looking for a **research assistant/associate** (bachelor or master degree 
 - **Where**: [Nanyang Technological University](https://www.ntu.edu.sg/), Singapore
 - **When**: As soon as possible
 - **How long**: (at least) until December 2022 (approx. 2 years)
-- **For whom**: Perfect for recently graduate candidates that want to gain experience in neuroscience/psychology research or find work in academia
+- **For whom**: Perfect for recently graduated candidates that want to gain experience in neuroscience/psychology research or find work in academia
 - **With whom**: With the [**ReBeL**](https://dominiquemakowski.github.io/research/#people) team (part of the [Clinical Brain Lab](http://www.clinicalbrain.org/))
 - **To do what**: Creating experiments, analyzing data, writing papers, coding, ... (all the neuro/psychological science good stuff)
 - **Contact**: dom.makowski@gmail.com (but apply through the [official link](https://ntu.wd3.myworkdayjobs.com/en-US/Careers/job/NTU-Main-Campus-Singapore/Research-Assistant--Psychology-_R00006622-1))
