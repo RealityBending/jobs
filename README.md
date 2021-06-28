@@ -14,13 +14,13 @@ Looking for a job? Check-out these offers.
 
 We're looking for a **research assistant/associate** (bachelor or master degree in psychology or related fields) at Nanyang Technological University, Singapore to work with us on [**reality bending**](https://dominiquemakowski.github.io/research/), which includes things like reality perception, fake news, illusions, deception etc.
 
-- **Salary**: approx. SGD 2800-3400/month <sub><sup>*(base salary, not including bonuses)*</sup></sub>
+- **Salary**: approx. SGD 2800-3400/month <sub><sup>*(base salary, not including bonuses)*</sup></sub> (depending on experience and qualifications)
 - **Where**: Nanyang Technological University, Singapore
 - **When**: As soon as possible
 - **How long**: (at least) until December 2022 (approx. 2 years)
 - **With whom**: With the [**ReBeL**](https://dominiquemakowski.github.io/research/#people) team (part of the [Clinical Brain Lab](http://www.clinicalbrain.org/))
 - **To do what**: Creating experiments, analyzing data, writing papers, coding, ... (all the neuro/psychological science good stuff)
-- **Contact**: dom.makowski@gmail.com (but apply through the link above)
+- **Contact**: dom.makowski@gmail.com (but apply through the [official link](https://ntu.wd3.myworkdayjobs.com/en-US/Careers/job/NTU-Main-Campus-Singapore/Research-Assistant--Psychology-_R00006622-1))
 - **Requirements**: being smart, curious, ambitious, proficient and cool. Also, experience with Python and/or R will help a lot
 - **Skills that you will be developping**: Python, R, signal processing, experiment crafting, EEG and physiological signals analysis, neuropsychology, writing, presenting, pizza testing, ...
 - **Application deadline**: This position will be closed once the right candidate is found.
@@ -34,7 +34,7 @@ We plan to run several experiments including techniques like EEG, bodily signals
 
 **How to apply**:
 
-- [ ] Through the link above. Don't forget to tell us why you're the best candidate for the job. You can mention whom you've work with (as reference contacts), but focus on what you actually did, learned, what you liked and didn't like, and what you want to learn and do in the future. Don't bother with reference letters or transcripts.
+- [ ] Through the [**official link**](https://ntu.wd3.myworkdayjobs.com/en-US/Careers/job/NTU-Main-Campus-Singapore/Research-Assistant--Psychology-_R00006622-1). Don't forget to tell us why you're the best candidate for the job. You can mention whom you've worked with (as reference contacts), but focus on what you actually did, learned, what you liked and didn't like, and what you want to learn and do in the future. Don't bother with reference letters or transcripts.
 
 
 **About the university**
