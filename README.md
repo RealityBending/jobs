@@ -48,7 +48,7 @@ Aside from its academic qualities, NTU is known for its green campus (NTU has be
 <img height="400" src="img/team.jpg">
 
 
-## Companion <sub><sup>(open)</sup></sub>
+## Companion
 
 <img align="right" height="250" src="img/masons.jpg">
 
