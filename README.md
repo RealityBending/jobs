@@ -7,18 +7,17 @@ Looking for a job? Check-out these offers.
 <img height="400" src="https://dominiquemakowski.github.io/img/headers/singapore.jpg">
 
 
-
-## Research Assistant/Associate (2 years)
+## Research Assistant
 
 👉 [**APPLY HERE**](https://ntu.wd3.myworkdayjobs.com/en-US/Careers/job/NTU-Main-Campus-Singapore/Research-Assistant--Psychology-_R00006622-1) 👈
 
 
-We're looking for a **research assistant/associate** (bachelor or master degree) at Nanyang Technological University, Singapore to work with us on [**reality bending**](https://dominiquemakowski.github.io/research/) ([click-here](https://dominiquemakowski.github.io/research/) to learn more about what we do).
+We're looking for a **research assistant/associate** (bachelor or master degree in psychology or related fields) at Nanyang Technological University, Singapore to work with us on [**reality bending**](https://dominiquemakowski.github.io/research/) ([click-here](https://dominiquemakowski.github.io/research/) to learn more about what we do).
 
 - **Salary**: approx. SGD 2800-3400/month <sub><sup>*(base salary, not including bonuses)*</sup></sub>
 - **Where**: Nanyang Technological University, Singapore
 - **When**: As soon as possible
-- **How long**: (at least) until December 2022
+- **How long**: (at least) until December 2022 (approx. 2 years)
 - **With whom**: With the [**ReBeL**](https://dominiquemakowski.github.io/research/#people) team (part of the [Clinical Brain Lab](http://www.clinicalbrain.org/))
 - **To do what**: Creating experiments, analyzing data, writing papers, coding, ... (all the neuro/psychological science good stuff)
 - **Contact**: dom.makowski@gmail.com (but apply through the link above)
