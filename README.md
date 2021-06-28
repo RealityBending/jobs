@@ -18,7 +18,7 @@ We're looking for a **research assistant/associate** (bachelor or master degree)
 - **Salary**: approx. SGD 2800-3400/month <sub><sup>*(base salary, not including bonuses)*</sup></sub>
 - **Where**: Nanyang Technological University, Singapore
 - **When**: As soon as possible
-- **How long**: 2 years
+- **How long**: (at least) until December 2022
 - **With whom**: With the [**ReBeL**](https://dominiquemakowski.github.io/research/#people) team (part of the [Clinical Brain Lab](http://www.clinicalbrain.org/))
 - **To do what**: Creating experiments, analyzing data, writing papers, coding, ... (all the neuro/psychological science good stuff)
 - **Contact**: dom.makowski@gmail.com (but apply through the link above)
