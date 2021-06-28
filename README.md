@@ -34,7 +34,7 @@ We plan to run several experiments including techniques like EEG, bodily signals
 
 **How to apply**:
 
-- [ ] Through the [**official link**](https://ntu.wd3.myworkdayjobs.com/en-US/Careers/job/NTU-Main-Campus-Singapore/Research-Assistant--Psychology-_R00006622-1). Don't forget to tell us why you're the best candidate for the job. You can mention whom you've worked with (as reference contacts), but focus on what you actually did, learned, what you liked and didn't like, and what you want to learn and do in the future. Don't bother with reference letters or transcripts.
+👉 Through the [**official link**](https://ntu.wd3.myworkdayjobs.com/en-US/Careers/job/NTU-Main-Campus-Singapore/Research-Assistant--Psychology-_R00006622-1). Don't forget to tell us why you're the best candidate for the job. You can mention whom you've worked with (as reference contacts), but focus on what you actually did, learned, what you liked and didn't like, and what you want to learn and do in the future. Don't bother with reference letters or transcripts.
 
 
 **About the university**
@@ -57,7 +57,7 @@ During the Middle Ages and the Renaissance, becoming a master craftsman or artis
 
 You're a student or a researcher-in-training, and **you feel like you have time** *(and energy ⚡)* **to learn more?** And you also would like to **learn new skills** and contribute to open-science? But you would also like this training to result in something academically valuable (like a publication)? In other words, **you want it all**?
 
-Good news, I might have something of interest for you. Being in touch with several open-access projects, I know some topics and areas in which there is a need for contributors, with different projects just waiting for some brilliant mind to push it forward. Some interesting stuff that you can investigate on your free time (but not at the expense of your main objectives, i.e., **don't drop school for that!**). Depending on your current skills - **but most importantly the skills you want to develop** - you can check-out the list below to see if there is anything that could be of interest to you. If that's the case, do contact us; we will provide you with assistance, guidance and help so you can start exploring it at your rhythm in a comfortable environment :)
+Good news, I might have something of interest for you. Being in touch with several open-access projects, I know some topics and areas in which there is a need for contributors, with different projects just waiting for some brilliant mind to push it forward. Some interesting stuff that you can investigate on your free time (but not at the expense of your main objectives, i.e., **don't drop school for that!**). Depending on your current skills - **but most importantly the skills you want to develop** - you can check-out the list below to see if there is anything that could be of interest to you. If that's the case, do contact us; we will provide you with assistance, guidance and help so you can start exploring it at your rhythm in a comfortable environment. It can be a good way to get in touch with us, be mentored, learn and initiate collaborations or future projects with funded positions :) 
 
 
 - [ ] **An GAM-based Approach to EEG/ERP Analysis**. General Additive Models (GAM) are a powerful class of regression models that seem very appropriate to model ERP data. We have a [draft](https://neurokit2.readthedocs.io/en/latest/studies/erp_gam.html) of a study that aims to be like a tutorial / guide to analyze ERP using GAMs.
