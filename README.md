@@ -10,12 +10,12 @@ Looking for a job? Check-out these offers.
 
 ## Research Assistant/Associate (2 years)
 
-- [**APPLY HERE**](https://ntu.wd3.myworkdayjobs.com/en-US/Careers/job/NTU-Main-Campus-Singapore/Research-Assistant--Psychology-_R00006622-1)
+- 👉 [**APPLY HERE**](https://ntu.wd3.myworkdayjobs.com/en-US/Careers/job/NTU-Main-Campus-Singapore/Research-Assistant--Psychology-_R00006622-1) 👈
 
 
 We're looking for a **research assistant/associate** (bachelor or master degree) at Nanyang Technological University, Singapore to work with us on [**reality bending**](https://dominiquemakowski.github.io/research/) ([click-here](https://dominiquemakowski.github.io/research/) to learn more about what we do).
 
-- **Salary**: SGD 2800-3400/month <sub><sup>*(base salary, not including bonuses)*</sup></sub>
+- **Salary**: approx. SGD 2800-3400/month <sub><sup>*(base salary, not including bonuses)*</sup></sub>
 - **Where**: Nanyang Technological University, Singapore
 - **When**: As soon as possible
 - **How long**: 2 years
