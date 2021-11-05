@@ -4,7 +4,7 @@ Looking for a job? Check-out these offers.
 
 
 
-<img height="400" src="https://dominiquemakowski.github.io/img/headers/singapore.jpg">
+<img height="400" src="img/singapore.jpg">
 
 
 ## Research Assistant (NICE project) <sub><sup>(posted 05/11/2021)</sup></sub>
