@@ -76,7 +76,16 @@ Good news, I might have something of interest for you. Being in touch with sever
 
 *Note that the amount of engagement and time you want to devote to such side-project is entirely up to you. As it is 100% based on self-engagement, we won't ask for any target goals, so no pressure. Joining our network and working on these things should always be interesting (for you), useful (to you), and fun (for you... and us ☺️).*
 
-----
+
+
+
+
+
+
+
+
+<img height="400" src="img/curtains.jpg">
+
 ## Closed calls
 
 
