@@ -13,6 +13,9 @@ Looking for a job? Check-out these offers.
 
 It seems like there is no position. That said, feel free to drop us an email if you're interested in working with us, we never know :)
 
+<img height="400" src="img/team.jpg">
+
+
 ## Companion
 
 <img align="right" height="250" src="img/masons.jpg">
@@ -91,7 +94,6 @@ Send CV and any other relevant documents to *panos.mavros@sec.ethz.ch* and *dom.
 The Nanyang <sub><sup>(*which means "Southeast Asia" in Chinese*)</sup></sub> Technological University (NTU) is one of the two main universities in Singapore. Although relatively young compared to most of western institutes, NTU is a dynamic and vibrant university that has quickly achieved an international leadership in many areas. NTU has been ranked as 1st in the ranking of young universities in the QS World University Rankings since 2015, and is considered as a top-tier research institution in Asia.
 Aside from its academic qualities, NTU is known for its green campus (NTU has been listed as one of the world's most beautiful universities) and its architectural landmarks, making it an ideal location to foster a positive growth mindset.
 
-<img height="400" src="img/team.jpg">
 
 ### ~Research Assistant/Associate~ <sub><sup>(posted 20/08/2021)</sup></sub>
 
