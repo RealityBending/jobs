@@ -7,11 +7,40 @@ Looking for a job? Check-out these offers.
 <img height="400" src="img/singapore.jpg">
 
 
-## No position <sub><sup>(posted 01/10/2022)</sup></sub>
+## Research Assistant/Associate <sub><sup>(posted 19/09/2022)</sup></sub>
 
-<!-- 👉 [**APPLY HERE**](TODO) 👈 -->
 
-Oh no, it seems like there is no position available for now :( That said, feel free to drop us an email if you're interested in working with us, we never know :)
+We're looking for a **research assistant/associate** (bachelor or master degree in psychology or related fields) at Nanyang Technological University, Singapore to work with the [Reality Bending Lab](https://realitybending.github.io/) on a project on the perception and belief in **fake news**, using neuroimaging (EEG, physio signals). This position is a great opportunity for candidates who hope to develop their research skills (neuroimaging, neuropsychological and cognitive testing, programming in R and Python, academic writing, data analysis, ...).
+
+- **Salary**: approx. SGD 3000-3400/month (2130-2415€) <sub><sup>*(base salary, not including bonuses)*</sup></sub> (depending on experience and qualifications)
+- **Where**: [Nanyang Technological University](https://www.ntu.edu.sg/), Singapore
+- **When**: As soon as possible
+- **How long**: minimum 1 year commitment
+- **For whom**: Perfect for recently graduated candidates that want to gain experience in neuroscience/psychology research or find work in academia
+- **With whom**: [Dr Dominique Makowski](https://dominiquemakowski.github.io) and [Prof Annabel Chen](http://www.clinicalbrain.org/)
+- **Contact**: Informal inquiries can be sent to *dom.makowski@gmail.com*
+- **Requirements**: Background in psychology, being curious and motivated. Experience with R/Python will help a lot
+- **Skills that you will be developping**: R, Python, data analysis, experiment crafting, academic writing, ...
+- **Application deadline**: This position will be closed once the right candidate is found
+
+
+**How to apply**:
+
+Send CV and any other relevant documents to *dom.makowski@gmail.com*.
+
+<!-- 👉 Through the [**official link**](TODO). -->
+
+**Opinion**
+
+Want some insider opinion? Ask the people that were there! Do not hesitate to contact any of the current or past [lab member](https://realitybending.github.io/#people) to know about their experience in the lab. 
+
+**About the university**
+
+The Nanyang <sub><sup>(*which means "Southeast Asia" in Chinese*)</sup></sub> Technological University (NTU) is one of the two main universities in Singapore. Although relatively young compared to most of western institutes, NTU is a dynamic and vibrant university that has quickly achieved an international leadership in many areas. NTU has been ranked as 1st in the ranking of young universities in the QS World University Rankings since 2015, and is considered as a top-tier research institution in Asia.
+Aside from its academic qualities, NTU is known for its green campus (NTU has been listed as one of the world's most beautiful universities) and its architectural landmarks, making it an ideal location to foster a positive growth mindset.
+
+
+
 
 <img height="400" src="img/team.jpg">
 
