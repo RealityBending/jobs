@@ -7,7 +7,7 @@ Looking for a job? Check-out these offers.
 <img height="400" src="img/singapore.jpg">
 
 
-## Research Assistant/Associate <sub><sup>(posted 19/09/2022)</sup></sub>
+## [NEW] Research Assistant/Associate <sub><sup>(posted 19/09/2022)</sup></sub>
 
 
 We're looking for a **research assistant/associate** (bachelor or master degree in psychology or related fields) at Nanyang Technological University, Singapore to work with the [Reality Bending Lab](https://realitybending.github.io/) on a project on the perception and belief in **fake news**, using neuroimaging (EEG, physio signals). This position is a great opportunity for candidates who hope to develop their research skills (neuroimaging, neuropsychological and cognitive testing, programming in R and Python, academic writing, data analysis, ...).
